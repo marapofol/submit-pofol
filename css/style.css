@@ -220,7 +220,7 @@ body {
   display: block;
   width: 400px;
   height: 600px;
-  background: url(/../img/album_HG002MAB77d_output.jpg) no-repeat 50% 50%;
+  background: url(../img/album_HG002MAB77d_output.jpg) no-repeat 50% 50%;
   background-size: 80%;
   transition: all 0.3s ease-in;
 }
